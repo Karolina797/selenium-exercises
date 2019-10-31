@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42cd1037-d724-4d33-80f1-22416e407d2b" name="Default Changelist" comment="" />
+    <list default="true" id="42cd1037-d724-4d33-80f1-22416e407d2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/selenium/karolinadutka/AaaSpiceJetEverythingTogether.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/selenium/karolinadutka/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/selenium/karolinadutka/CheckboxesExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/selenium/karolinadutka/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/selenium/karolinadutka/JavaScriptAlerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-exercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/selenium/karolinadutka/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/selenium/karolinadutka/CheckBox.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +24,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/CheckBox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+            <state relative-caret-position="493">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/StaticDropdown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/Calendar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/AaaSpiceJetEverythingTogether.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/JavaScriptAlerts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/Exercise2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,6 +105,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -42,17 +115,22 @@
         <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/AutoSuggestiveDropdown.java" />
         <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/Main.java" />
         <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/DynamicDropdown.java" />
-        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/StaticDropdown.java" />
-        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/CheckBox.java" />
         <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/Template.java" />
+        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/CheckboxesExercise.java" />
+        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/CheckBox.java" />
+        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/Calendar.java" />
+        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/SpiceJetEverythingTogether.java" />
+        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/StaticDropdown.java" />
+        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/AaaSpiceJetEverythingTogether.java" />
+        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/JavaScriptAlerts.java" />
+        <option value="$PROJECT_DIR$/src/com/selenium/karolinadutka/Exercise2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="661" />
-    <option name="y" value="27" />
-    <option name="width" value="1185" />
-    <option name="height" value="961" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -63,24 +141,31 @@
         <subPane>
           <expand>
             <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="karolinadutka" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Selenium/selenium-java-3.141.59/libs/okio-1.14.0.jar!/" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/Work/testng-6.9.4.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -97,9 +182,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticDropdown">
-    <configuration name="AutoSuggestiveDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.karolinadutka.AutoSuggestiveDropdown" />
+  <component name="RunManager" selected="Application.Exercise2">
+    <configuration name="AaaSpiceJetEverythingTogether" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.karolinadutka.AaaSpiceJetEverythingTogether" />
       <module name="selenium-exercises" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.karolinadutka.CheckBox" />
+    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.karolinadutka.Calendar" />
       <module name="selenium-exercises" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.karolinadutka.DynamicDropdown" />
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.karolinadutka.Exercise2" />
       <module name="selenium-exercises" />
       <extension name="coverage">
         <pattern>
@@ -137,12 +222,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.karolinadutka.Template" />
+    <configuration name="JavaScriptAlerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.karolinadutka.JavaScriptAlerts" />
       <module name="selenium-exercises" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.karolinadutka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,18 +249,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.AaaSpiceJetEverythingTogether" />
+      <item itemvalue="Application.Calendar" />
+      <item itemvalue="Application.Exercise2" />
+      <item itemvalue="Application.JavaScriptAlerts" />
       <item itemvalue="Application.StaticDropdown" />
-      <item itemvalue="Application.DynamicDropdown" />
-      <item itemvalue="Application.AutoSuggestiveDropdown" />
-      <item itemvalue="Application.CheckBox" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.JavaScriptAlerts" />
+        <item itemvalue="Application.AaaSpiceJetEverythingTogether" />
         <item itemvalue="Application.StaticDropdown" />
-        <item itemvalue="Application.DynamicDropdown" />
-        <item itemvalue="Application.AutoSuggestiveDropdown" />
-        <item itemvalue="Application.CheckBox" />
+        <item itemvalue="Application.Calendar" />
       </list>
     </recent_temporary>
   </component>
@@ -190,14 +279,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="661" y="27" width="1185" height="961" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21244444" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15831557" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -217,24 +306,31 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.07288889" />
+      <window_info anchor="right" id="Run" order="8" weight="0.30383795" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/AutoSuggestiveDropdown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        <state relative-caret-position="601">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/StaticDropdown.java">
+    <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/CheckboxesExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/DynamicDropdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="25" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -243,18 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/Template.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/DynamicDropdown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -263,8 +349,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/CheckBox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        <state relative-caret-position="493">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/StaticDropdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/Exercise2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/JavaScriptAlerts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/selenium/karolinadutka/AaaSpiceJetEverythingTogether.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -321,7 +457,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Exercise</last-edited>
+          <last-edited>selenium-exercises</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
