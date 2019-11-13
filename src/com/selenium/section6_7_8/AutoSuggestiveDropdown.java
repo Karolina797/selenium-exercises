@@ -1,4 +1,4 @@
-package com.selenium.karolinadutka;
+package com.selenium.section6_7_8;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

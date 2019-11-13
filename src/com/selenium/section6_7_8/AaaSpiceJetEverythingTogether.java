@@ -1,4 +1,4 @@
-package com.selenium.karolinadutka;
+package com.selenium.section6_7_8;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -16,7 +16,6 @@ public class AaaSpiceJetEverythingTogether {
 
         driver.get("https://www.spicejet.com");
         driver.manage().window().maximize();
-
 
 
         //1. Select trip from Bengaluru to Chennai
@@ -54,7 +53,6 @@ public class AaaSpiceJetEverythingTogether {
 
         //6. Click on 'Search'
         driver.findElement(By.cssSelector("#ctl00_mainContent_btn_FindFlights")).click();
-
 
 
     }

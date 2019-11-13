@@ -1,4 +1,4 @@
-package com.selenium.karolinadutka;
+package com.selenium.section6_7_8;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -29,8 +29,6 @@ public class CheckBox {
         // Count the number of check boxes ---> find common locator
         System.out.println(driver.findElements(By.cssSelector("input[type='checkbox']")).size());
         Assert.assertEquals(driver.findElements(By.cssSelector("input[type='checkbox']")).size(), 6);
-
-
 
 
     }
